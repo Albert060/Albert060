@@ -7,3 +7,14 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
+
+I am a systems engineer, I am currently expanding my knowledge in both front-end and back-end development, in a master's degree at the Atrium academy and I want to work as a software developer in a technology company. I love learning and building something new, productive, innovative and creative.
+* **I am interested in Web designing, Android development, and digital marketing**
+- 🌱 I’m currently learning ...
+  - Java
+  - Angular
+  - Sprint Boot
+  - JavaScript
+- 👯 I’m looking forward to collaborate on open source projects.
+- Outside of technology, I love 🎮 playing video games, 🎵 watching series, movies and playing sports.
+- 📫 Reach out to me at: albertjavendanog@gmail.com
